@@ -1,0 +1,28 @@
+header{
+    background-color: lawngreen;
+    height: 100px;
+}
+main{
+    background-color: blue;
+    height: 100px;
+}
+footer{
+    background-color: red;
+    height: 100px;
+}
+#produtos{
+    background-color: rebeccapurple;
+    height: 100px;
+}
+#historia{
+    background-color: aquamarine;
+    height: 100px;
+}
+#cadastro{
+    background-color:red;
+    height: 100px;
+} 
+#parceiros{
+    background-color: chocolate;
+    height: 100px;
+}
